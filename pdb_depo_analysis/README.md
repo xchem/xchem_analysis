@@ -8,4 +8,6 @@ Caveats:
 
 The details of the analysis can be found in ``match_xcdb_mols_pdb_structures.ipynb``
 
+EDIT: our archived data isn't yet routinely included in XCDB, so the list of additional molecules from a data scrape of the archive by Anna is included in ``all_compounds.txt``
+
 
