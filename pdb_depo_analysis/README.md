@@ -1,6 +1,6 @@
 # Analysis of depositions in the pdb for XChem molecules
 
-This folder contains files and a jupyter notebook that were used to analyse how many pdb depositions were likely to have resulted from an XChem experiment. 
+This folder contains files and a jupyter notebook that were used to analyse how many pdb depositions containing a bound ligand were likely to have resulted from an XChem experiment at BLI04-1 (Diamond Light Source). (Correct on 24/11/2020).
 
 Caveats:
 - All ligands for comparison have been retreived from archived soakdb files and XChemDB. If an experiments molecule was never recorded in a soakdb file, it will not have been counted.  
