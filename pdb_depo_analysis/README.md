@@ -8,4 +8,6 @@ Caveats:
 
 The details of the analysis can be found in ``match_xcdb_mols_pdb_structures.ipynb``
 
+**NB: lists of smiles strings from the search aren't included**
+
 
